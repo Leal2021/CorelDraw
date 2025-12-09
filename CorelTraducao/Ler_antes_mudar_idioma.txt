@@ -1,0 +1,13 @@
+FAÇA ANTES PARA TRADUZIR
+
+- copiar a pasta BR para
+C:\Program Files\Corel\CorelDRAW Graphics Suite 2021\Languages
+
+- executar os arquivos
+reg1
+reg2
+
+após isso, executar o corel e mudar na janela o idioma
+
+* CASO NÃO MOSTRE A JANELA
+- abra o corel, vá em Opções e mude o idioma.

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stringMap>
+  <context name="ArtisticMedia">
+    <string nonTranslatableString="Custom" locId="9ED4B349-9B80-42ae-912A-609071C70A99" locString="Personalizado"></string>
+    <string nonTranslatableString="Artistic" locId="9ED4B349-9B80-42ae-912A-609071C70A9A" locString="Artístico"></string>
+    <string nonTranslatableString="Calligraphy Brush" locId="9ED4B349-9B80-42ae-912A-609071C70A9B" locString="Caligrafia"></string>
+    <string nonTranslatableString="Scroll" locId="9ED4B349-9B80-42ae-912A-609071C70A9C" locString="Rolar"></string>
+    <string nonTranslatableString="Sensual" locId="9ED4B349-9B80-42ae-912A-609071C70A9D" locString="Sensual"></string>
+    <string nonTranslatableString="Splash_Splatter" locId="9ED4B349-9B80-42ae-912A-609071C70A9E" locString="Espirrar"></string>
+    <string nonTranslatableString="Symbols" locId="9ED4B349-9B80-42ae-912A-609071C70A9F" locString="Símbolo"></string>
+    <string nonTranslatableString="Texture Brush_Paint" locId="9ED4B349-9B80-42ae-912A-609071C70AA0" locString="Textura"></string>
+    <string nonTranslatableString="Food" locId="9ED4B349-9B80-42ae-912A-609071C70AA1" locString="Alimento"></string>
+    <string nonTranslatableString="Footprint" locId="9ED4B349-9B80-42ae-912A-609071C70AA2" locString="Rodapé"></string>
+    <string nonTranslatableString="Misc" locId="9ED4B349-9B80-42ae-912A-609071C70AA3" locString="Diversos"></string>
+    <string nonTranslatableString="Objects" locId="9ED4B349-9B80-42ae-912A-609071C70AA4" locString="Objetos"></string>
+    <string nonTranslatableString="Plants" locId="9ED4B349-9B80-42ae-912A-609071C70AA5" locString="Plantas"></string>
+    <string nonTranslatableString="Brush Strokes" locId="9ED4B349-9B80-42ae-912A-609071C70AA6" locString="Pinceladas"></string>
+    <string nonTranslatableString="Mosaic" locId="9ED4B349-9B80-42ae-912A-609071C70AA7" locString="Mosaico"></string>
+    <string nonTranslatableString="Music" locId="9ED4B349-9B80-42ae-912A-609071C70AA8" locString="Música"></string>
+    <string nonTranslatableString="Stars" locId="9ED4B349-9B80-42ae-912A-609071C70AA9" locString="Estrelas"></string>
+    <string nonTranslatableString="Sweep Arrows" locId="9ED4B349-9B80-42ae-912A-609071C70AAA" locString="Arrastar setas"></string>
+    <string nonTranslatableString="Texture" locId="9ED4B349-9B80-42ae-912A-609071C70AAB" locString="Textura"></string>
+    <string nonTranslatableString="Chain" locId="9ED4B349-9B80-42ae-912A-609071C70AAC" locString="Cadeia"></string>
+    <string nonTranslatableString="Pipe" locId="9ED4B349-9B80-42ae-912A-609071C70AAD" locString="Pipe"></string>
+    <string nonTranslatableString="Rope" locId="9ED4B349-9B80-42ae-912A-609071C70AAE" locString="Corda"></string>
+    <string nonTranslatableString="Other" locId="9ED4B349-9B80-42ae-912A-609071C70AAF" locString="Outra"></string>
+  </context>
+  <context name="Preset">
+    <!--Blend Presets-->
+    <string nonTranslatableString="Blend1" locId="7255016A-E907-4f58-92CB-B2898E69C7C3" locString="8 etapas linha reta"></string>
+    <string nonTranslatableString="Blend2" locId="7255016A-E907-4f58-92CB-B2898E69C7C4" locString="10 etapas linha reta"></string>
+    <string nonTranslatableString="Blend3" locId="7255016A-E907-4f58-92CB-B2898E69C7C5" locString="Desac 20 linha reta"></string>
+    <string nonTranslatableString="Blend4" locId="7255016A-E907-4f58-92CB-B2898E69C7C6" locString="Rotação 90°"></string>
+    <string nonTranslatableString="Blend5" locId="7255016A-E907-4f58-92CB-B2898E69C7C7" locString="Mistura de loops"></string>
+    <!--Contour Presets-->
+    <string nonTranslatableString="Contour1" locId="7255016A-E907-4f58-92CB-B2898E69C7CB" locString="Entrada do fluxo"></string>
+    <string nonTranslatableString="Contour2" locId="7255016A-E907-4f58-92CB-B2898E69C7CC" locString="Saída do fluxo"></string>
+    <!--Distortion Presets-->
+    <string nonTranslatableString="Distortion1" locId="7255016A-E907-4f58-92CB-B2898E69C7D2" locString="Puxar cantos"></string>
+    <string nonTranslatableString="Distortion2" locId="7255016A-E907-4f58-92CB-B2898E69C7D3" locString="Empurrar cantos"></string>
+    <string nonTranslatableString="Distortion3" locId="7255016A-E907-4f58-92CB-B2898E69C7D4" locString="Torcer"></string>
+    <string nonTranslatableString="Distortion4" locId="7255016A-E907-4f58-92CB-B2898E69C7D5" locString="Carimbo"></string>
+    <string nonTranslatableString="Distortion5" locId="7255016A-E907-4f58-92CB-B2898E69C7D6" locString="Zíper"></string>
+    <!--Shadow Presets-->
+    <string nonTranslatableString="DropShadow1" locId="7255016A-E907-4f58-92CB-B2898E69C7DF" locString="Plano acima a direita"></string>
+    <string nonTranslatableString="DropShadow2" locId="7255016A-E907-4f58-92CB-B2898E69C7E0" locString="Plano acima a esquerda"></string>
+    <string nonTranslatableString="DropShadow3" locId="7255016A-E907-4f58-92CB-B2898E69C7E1" locString="Perspectiva superior direita"></string>
+    <string nonTranslatableString="DropShadow4" locId="7255016A-E907-4f58-92CB-B2898E69C7E2" locString="Perspectiva inferior direita"></string>
+    <string nonTranslatableString="DropShadow5" locId="7255016A-E907-4f58-92CB-B2898E69C7E3" locString="Perspectiva inferior esquerda"></string>
+    <string nonTranslatableString="DropShadow6" locId="7255016A-E907-4f58-92CB-B2898E69C7E4" locString="Perspectiva superior esquerda"></string>
+    <string nonTranslatableString="DropShadow7" locId="7255016A-E907-4f58-92CB-B2898E69C7E5" locString="Incandescente pequeno"></string>
+    <string nonTranslatableString="DropShadow8" locId="7255016A-E907-4f58-92CB-B2898E69C7E6" locString="Incandescente medio"></string>
+    <string nonTranslatableString="DropShadow9" locId="7255016A-E907-4f58-92CB-B2898E69C7E7" locString="Incandescente grande"></string>
+    <string nonTranslatableString="DropShadow10" locId="7255016A-E907-4f58-92CB-B2898E69C7E8" locString="Plano inferior direito"></string>
+    <string nonTranslatableString="DropShadow11" locId="7255016A-E907-4f58-92CB-B2898E69C7E9" locString="Plano inferior esquerdo"></string>
+    <string nonTranslatableString="InnerShadow1" locId="7255016A-E907-4f58-92CB-B2898E69C7EA" locString="Borda interior"></string>
+    <string nonTranslatableString="InnerShadow2" locId="7255016A-E907-4f58-92CB-B2898E69C7EB" locString="Brilho interior"></string>
+    <string nonTranslatableString="InnerShadow3" locId="7255016A-E907-4f58-92CB-B2898E69C7EC" locString="Canto interior inferior direito"></string>
+    <string nonTranslatableString="InnerShadow4" locId="7255016A-E907-4f58-92CB-B2898E69C7ED" locString="Canto interior inferior esquerdo"></string>
+    <string nonTranslatableString="InnerShadow5" locId="7255016A-E907-4f58-92CB-B2898E69C7EE" locString="Canto superior inferior direito"></string>
+    <string nonTranslatableString="InnerShadow6" locId="7255016A-E907-4f58-92CB-B2898E69C7EF" locString="Canto superior inferior esquerdo"></string>
+    <!--Envelope Presets-->
+    <string nonTranslatableString="Envelope1" locId="7255016A-E907-4f58-92CB-B2898E69C7EA" locString="Circular"></string>
+    <string nonTranslatableString="Envelope2" locId="7255016A-E907-4f58-92CB-B2898E69C7EB" locString="Retilíneo"></string>
+    <string nonTranslatableString="Envelope3" locId="7255016A-E907-4f58-92CB-B2898E69C7EC" locString="Inclinação retilínea"></string>
+    <string nonTranslatableString="Envelope4" locId="7255016A-E907-4f58-92CB-B2898E69C7ED" locString="Dilatar"></string>
+    <string nonTranslatableString="Envelope5" locId="7255016A-E907-4f58-92CB-B2898E69C7EE" locString="Empurrar para baixo"></string>
+    <string nonTranslatableString="Envelope6" locId="7255016A-E907-4f58-92CB-B2898E69C7EF" locString="Empurrar para cima"></string>
+    <!--VectorExtrude Presets-->
+    <string nonTranslatableString="Extrude1" locId="7255016A-E907-4f58-92CB-B2898E69C7F0" locString="Extrusão superior esquerda"></string>
+    <string nonTranslatableString="Extrude2" locId="7255016A-E907-4f58-92CB-B2898E69C7F1" locString="Extrusão superior"></string>
+    <string nonTranslatableString="Extrude3" locId="7255016A-E907-4f58-92CB-B2898E69C7F2" locString="Extrusão superior direita"></string>
+    <string nonTranslatableString="Extrude4" locId="7255016A-E907-4f58-92CB-B2898E69C7F3" locString="Extrusão inferior direita"></string>
+    <string nonTranslatableString="Extrude5" locId="7255016A-E907-4f58-92CB-B2898E69C7F4" locString="Extrusão inferior"></string>
+    <string nonTranslatableString="Extrude6" locId="7255016A-E907-4f58-92CB-B2898E69C7F5" locString="Extrusão inferior esquerda"></string>
+    <!--DropShadow Presets - nonTranslatableString equal preset file name without the extension-->
+    <string nonTranslatableString="Hard Close Top Right" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E0" locString="Fechamento abrupto superior direito"></string>
+    <string nonTranslatableString="Hard Offset Top Right" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E1" locString="Deslocamento abrupto superior direito"></string>
+    <string nonTranslatableString="Hard pers LT Fade" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E2" locString="Atenuação persp abrupta superior esquerda"></string>
+    <string nonTranslatableString="Hard Pers RT" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E3" locString="Persp abrupta superior direita"></string>
+    <string nonTranslatableString="HPRT Blue" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E4" locString="Duro perspec direita azul"></string>
+    <string nonTranslatableString="SOBR Blue" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E5" locString="Suave desloc base dir azul"></string>
+    <string nonTranslatableString="Soft Close Bottom Right" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E6" locString="Fechamento suave inferior direito"></string>
+    <string nonTranslatableString="Soft Offset Bottom Left" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E7" locString="Deslocamento suave inferior esquerdo"></string>
+    <string nonTranslatableString="Soft Pers LB" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E8" locString="Persp suave inferior esquerda"></string>
+    <string nonTranslatableString="Soft Pers LB Fade" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8E9" locString="Atenuação persp suave inferior esquerda"></string>
+    <string nonTranslatableString="Large Glow" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8EA" locString="Incandescente grande"></string>
+    <string nonTranslatableString="Medium Glow" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8EB" locString="Incandescente medio"></string>
+    <string nonTranslatableString="Small Glow" locId="43DE1065-F812-4a0d-87B7-832ECFA2D8EC" locString="Incandescente pequeno"></string>
+    <!--Drawing Profile Presets-->
+    <string nonTranslatableString="Cabinet Oblique" locId="1ECA24FB-E642-44af-9E6A-E793A2A34830" locString="Gabinete oblíquo"></string>
+    <string nonTranslatableString="Cavalier Oblique" locId="1ECA24FB-E642-44af-9E6A-E793A2A34831" locString="Cavalier oblíquo"></string>
+    <string nonTranslatableString="Dimetric1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34832" locString="Dimétrico"></string>
+    <string nonTranslatableString="Dimetric2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34833" locString="Dimétrico"></string>
+    <string nonTranslatableString="Dimetric3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34834" locString="Dimétrico"></string>
+    <string nonTranslatableString="Dimetric4" locId="1ECA24FB-E642-44af-9E6A-E793A2A34835" locString="Dimétrico"></string>
+    <string nonTranslatableString="Isometric" locId="1ECA24FB-E642-44af-9E6A-E793A2A34836" locString="Isométrico"></string>
+    <string nonTranslatableString="Trimetric1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34837" locString="Trimétrico"></string>
+    <string nonTranslatableString="Trimetric2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34838" locString="Trimétrico"></string>
+    <string nonTranslatableString="Trimetric3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34839" locString="Trimétrico"></string>
+    <string nonTranslatableString="Trimetric4" locId="1ECA24FB-E642-44af-9E6A-E793A2A3483A" locString="Trimétrico"></string>
+    <!--Fill and Outline Presets-->
+    <string nonTranslatableString="FillOutline1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34840" locString="S1000D Linha 0,18 mm"></string>
+    <string nonTranslatableString="FillOutline2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34841" locString="S1000D Linha 0,25 mm"></string>
+    <string nonTranslatableString="FillOutline3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34842" locString="S1000D Linha 0,35 mm"></string>
+    <string nonTranslatableString="FillOutline4" locId="1ECA24FB-E642-44af-9E6A-E793A2A34843" locString="S1000D Linha tracejada 0,18 mm"></string>
+    <string nonTranslatableString="FillOutline5" locId="1ECA24FB-E642-44af-9E6A-E793A2A34844" locString="S1000D Linha tracejada 0,25 mm"></string>
+    <string nonTranslatableString="FillOutline6" locId="1ECA24FB-E642-44af-9E6A-E793A2A34845" locString="S1000D Linha de destaque 0,50 mm"></string>
+    <!--Text Presets-->
+    <string nonTranslatableString="Text1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34850" locString="S1000D Texto 8 pt"></string>
+    <string nonTranslatableString="Text2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34851" locString="S1000D Texto 10 pt"></string>
+    <string nonTranslatableString="Text3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34852" locString="S1000D Número 10 pt"></string>
+    <!--Text on Path Presets-->
+    <string nonTranslatableString="TextOnPath1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34860" locString="Texto no caminho"></string>
+    <string nonTranslatableString="TextOnPath2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34861" locString="Texto longe do caminho"></string>
+    <string nonTranslatableString="TextOnPath3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34862" locString="Deslocamento de texto aplicado"></string>
+    <!--Print dialog Layout presets-->
+    <string nonTranslatableString="1 x 2 (2-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34870" locString="1 x 2 (2 para cima)"></string>
+    <string nonTranslatableString="2 x 1 (2-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34871" locString="2 x 1 (2 para cima)"></string>
+    <string nonTranslatableString="2 x 2 (4-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34872" locString="2 x 2 (4 para cima)"></string>
+    <string nonTranslatableString="2 x 3 (6-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34873" locString="2 x 3 (6 para cima)"></string>
+    <string nonTranslatableString="3 x 2 (6-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34874" locString="3 x 2 (6 para cima)"></string>
+    <string nonTranslatableString="3 x 3 (9-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34875" locString="3 x 3 (9 para cima)"></string>
+    <string nonTranslatableString="3 x 4 (12-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34876" locString="3 x 4 (12 para cima)"></string>
+    <string nonTranslatableString="4 x 3 (12-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34877" locString="4 x 3 (12 para cima)"></string>
+    <string nonTranslatableString="4 x 4 (16-up)" locId="1ECA24FB-E642-44af-9E6A-E793A2A34878" locString="4 x 4 (16 para cima)"></string>
+    <string nonTranslatableString="8-up Perfect Bound - Sheetwise" locId="1ECA24FB-E642-44af-9E6A-E793A2A34879" locString="8 para cima Ligação perfeita - No sentido da folha"></string>
+    <string nonTranslatableString="8-up Perfect Bound - Work&amp;Tumble" locId="1ECA24FB-E642-44af-9E6A-E793A2A34880" locString="8 para cima Ligação perfeita - Trabalho e tombamento"></string>
+    <string nonTranslatableString="8-up Perfect Bound - Work&amp;Turn" locId="1ECA24FB-E642-44af-9E6A-E793A2A34881" locString="8 para cima Ligação perfeita - Trabalho e turno"></string>
+    <string nonTranslatableString="8-up Saddle-Stitch - Sheetwise" locId="1ECA24FB-E642-44af-9E6A-E793A2A34882" locString="8 para cima Montagem em camadas - No sentido da folha"></string>
+    <string nonTranslatableString="8-up Saddle-Stitch - Work&amp;Tumble" locId="1ECA24FB-E642-44af-9E6A-E793A2A34883" locString="8 para cima Montagem em camadas - Trabalho e tombamento"></string>
+    <string nonTranslatableString="8-up Saddle-Stitch - Work&amp;Turn" locId="1ECA24FB-E642-44af-9E6A-E793A2A34884" locString="8 para cima Montagem em camadas - Trabalho e turno"></string>
+    <string nonTranslatableString="Readers Spread" locId="1ECA24FB-E642-44af-9E6A-E793A2A34885" locString="Dispersão de leitores"></string>
+  </context>
+  <context name="Palette">
+    <string nonTranslatableString="Misc" locId="C8851A24-0FA7-424c-815F-CC9ED22A2B99" locString="Diversos"></string>
+    <string nonTranslatableString="Nature" locId="C8851A24-0FA7-424c-815F-CC9ED22A2B9A" locString="Natureza"></string>
+    <string nonTranslatableString="People" locId="C8851A24-0FA7-424c-815F-CC9ED22A2B9B" locString="Pessoas"></string>
+    <string nonTranslatableString="Things" locId="C8851A24-0FA7-424c-815F-CC9ED22A2B9C" locString="Coisas"></string>
+    <string nonTranslatableString="Spot" locId="9C66C816-3BBA-45c9-9086-BC0B9AFA58D2" locString="Exata"></string>
+    <string nonTranslatableString="Previous Version" locId="7D7BBC58-F7DD-42f6-8B26-E436F1D0C53B" locString="Versão anterior"></string>
+    <string nonTranslatableString="Process" locId="9DF0BE2D-0E6E-4733-A067-CAF0273D1B54" locString="Composta"></string>
+    <string nonTranslatableString="256 Colors" locId="436ABD16-62AA-4844-A06E-86E241A51D5E" locString="256 cores"></string>
+  </context>
+  <context name="VideoHints">
+    <string nonTranslatableString="MediaPlayerRequired" locId="F75E5CD9-C1B0-4F6F-B9F2-1D3FC65A0725" locString="É necessário ter o Windows Media Player 10 ou posterior para reproduzir essas dicas de vídeo."/>
+    <string nonTranslatableString="MediaPlayerWarningNoDownload" locId="CF8C4A80-FC23-4716-BBA0-34B54CD0C56E" locString="É necessário ter o Windows Media Player 10 ou posterior para reproduzir essas dicas de vídeo. Entre em contato com o administrador da rede."/>
+    <string nonTranslatableString="Download" locId="B72E388F-800E-4CB0-95EF-4F940CA12DF7" locString="Download"/>
+  </context>
+  <context name="CalloutPresets">
+    <string nonTranslatableString="Callout1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34800" locString="S1000D 0,18 mm"></string>
+    <string nonTranslatableString="Callout2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34801" locString="S1000D 0,18 mm com ponta de seta"></string>
+    <string nonTranslatableString="Callout3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34802" locString="S1000D 0,25 mm"></string>
+    <string nonTranslatableString="Callout4" locId="1ECA24FB-E642-44af-9E6A-E793A2A34803" locString="S1000D 0,25 mm com ponta de seta"></string>
+    <string nonTranslatableString="Callout5" locId="1ECA24FB-E642-44af-9E6A-E793A2A34804" locString="Símbolo com halo"></string>
+    <string nonTranslatableString="Callout6" locId="1ECA24FB-E642-44af-9E6A-E793A2A34805" locString="Símbolo sem halo"></string>
+  </context>
+  <context name="DimensionPresets">
+    <string nonTranslatableString="Dimension1" locId="1ECA24FB-E642-44af-9E6A-E793A2A34810" locString="Texto acima sem ponta de seta"></string>
+    <string nonTranslatableString="Dimension2" locId="1ECA24FB-E642-44af-9E6A-E793A2A34811" locString="Texto direto sem ponta de seta"></string>
+    <string nonTranslatableString="Dimension3" locId="1ECA24FB-E642-44af-9E6A-E793A2A34812" locString="Texto abaixo sem ponta de seta"></string>
+    <string nonTranslatableString="Dimension4" locId="1ECA24FB-E642-44af-9E6A-E793A2A34813" locString="Texto acima com ponta de seta"></string>
+    <string nonTranslatableString="Dimension5" locId="1ECA24FB-E642-44af-9E6A-E793A2A34814" locString="Texto direto com ponta de seta"></string>
+    <string nonTranslatableString="Dimension6" locId="1ECA24FB-E642-44af-9E6A-E793A2A34815" locString="Texto abaixo com ponta de seta"></string>
+    <string nonTranslatableString="Dimension7" locId="1ECA24FB-E642-44af-9E6A-E793A2A34820" locString="Externa sem caixa"></string>
+    <string nonTranslatableString="Dimension8" locId="1ECA24FB-E642-44af-9E6A-E793A2A34821" locString="Externa com caixa"></string>
+    <string nonTranslatableString="Dimension9" locId="1ECA24FB-E642-44af-9E6A-E793A2A34822" locString="Interna sem caixa"></string>
+    <string nonTranslatableString="Dimension10" locId="1ECA24FB-E642-44af-9E6A-E793A2A34823" locString="Externa com pontilhado oposto"></string>
+    <string nonTranslatableString="Dimension11" locId="1ECA24FB-E642-44af-9E6A-E793A2A34827" locString="Interna com caixa"></string>
+  </context>
+  <context name="WindowScheme">
+		<string nonTranslatableString="Scheme_01_LightestGrey" locId="1ECA24FB-E642-44af-9E6A-E793A2A34891" locString="Leve"></string>
+    <string nonTranslatableString="Scheme_02_MediumGrey" locId="1ECA24FB-E642-44af-9E6A-E793A2A34892" locString="Médio"></string>
+		<string nonTranslatableString="Scheme_03_DarkGrey" locId="1ECA24FB-E642-44af-9E6A-E793A2A34893" locString="Escuro"></string>
+		<string nonTranslatableString="Scheme_04_Black" locId="1ECA24FB-E642-44af-9E6A-E793A2A34894" locString="Preto"></string>
+	</context>
+  <context name="OnlineService">
+    <string nonTranslatableString="ConceptShare" locId="B1DEBDAB-E352-4D9A-8195-4EF476BE910A" locString="ConceptShare"></string>
+    <string nonTranslatableString="OneDrive" locId="62496FC3-296C-462F-93E4-DD18315B87E9" locString="OneDrive"></string>
+    <string nonTranslatableString="QRCode" locId="A12F0A0C-7883-49C3-879A-85D7262A2126" locString="QR Code"></string>
+  </context>
+	<context name="SymbolManager">
+    <string nonTranslatableString="Architectural" locId="A60B728B-54F5-4B52-97CD-38650BC0AC0D" locString="Architectural"></string>
+    <string nonTranslatableString="Electrical" locId="6B42D854-0FB4-4B6D-8247-8D6F215FCF3A" locString="Electrical"></string>
+    <string nonTranslatableString="General" locId="16F30F19-819F-4357-8BF1-1874E6491C3C" locString="Geral"></string>
+    <string nonTranslatableString="Mechanical" locId="622E0C9E-FBE4-4B4A-8099-1AC1EC83E5AB" locString="Mechanical"></string>
+    <string nonTranslatableString="Tools and Hands" locId="2DA08DB8-BC59-4E04-AEA8-337FB1C69325" locString="Ferramentas e mãos"></string>
+    <string nonTranslatableString="Appliances" locId="253EC2E1-E60B-4DB4-82AB-F65D0970A999" locString="Appliances"></string>
+    <string nonTranslatableString="Building Construction" locId="8482F977-8F4C-4595-AFF8-DA221F8E78B3" locString="Building Construction"></string>
+    <string nonTranslatableString="Electrical Wiring" locId="1AC5ABC9-5ADD-414B-9F0A-967CB948869C" locString="Electrical Wiring"></string>
+    <string nonTranslatableString="HVAC" locId="7438A754-7866-4122-8F3F-95D50F96E426" locString="HVAC"></string>
+    <string nonTranslatableString="Kitchen Bath" locId="98C43F94-2836-421F-90B4-6AA3C83A9CAB" locString="Kitchen Bath"></string>
+    <string nonTranslatableString="Landscaping" locId="A1D9D3F8-A82D-436D-BAFD-1A0BD2E97899" locString="Landscaping"></string>
+    <string nonTranslatableString="Plumbing" locId="48298E84-F60A-44CB-9B46-A5FBE16FF66D" locString="Plumbing"></string>
+    <string nonTranslatableString="Furnishings FUR.csl" locId="5828ABD6-B3C6-4FAD-B899-A2F4E2721BCB" locString="Furnishings FUR.csl"></string>
+    <string nonTranslatableString="Appliances in Elevation APL.csl" locId="8E665A1D-BD54-45AC-ABF8-E3B068E3610F" locString="Appliances in Elevation APL.csl"></string>
+    <string nonTranslatableString="Appliances in Plan APL.csl" locId="46FFF7EB-BB86-4E13-B2A2-306AB02CE542" locString="Appliances in Plan APL.csl"></string>
+    <string nonTranslatableString="Small Appliances and Utensils APL.csl" locId="CF4DFA2E-A922-45FA-8A09-A3C3DC75B47D" locString="Small Appliances and Utensils APL.csl"></string>
+    <string nonTranslatableString="Doors Windows Building Construction BLD.csl" locId="AE01100E-9FE8-4EE1-83B0-943F94EC9F2A" locString="Doors Windows Building Construction BLD.csl"></string>
+    <string nonTranslatableString="Symbols for Architectural Drawings GSY.csl" locId="76705C0F-911E-4C4D-98D5-473E66CC8A92" locString="Symbols for Architectural Drawings GSY.csl"></string>
+    <string nonTranslatableString="Circuits and Panels EWA.csl" locId="7A65310B-8637-4F04-8FA6-5A0D05DB7938" locString="Circuits and Panels EWA.csl"></string>
+    <string nonTranslatableString="Lighting EWA.csl" locId="78B34FBB-8E80-4B67-A5EA-ACB6D0F73AED" locString="Lighting EWA.csl"></string>
+    <string nonTranslatableString="Sensors Alarms and Indicators EWA.csl" locId="927EE4DF-1DFB-4E96-AB4E-B2F805C0D47C" locString="Sensors Alarms and Indicators EWA.csl"></string>
+    <string nonTranslatableString="Switches Receptacles and Outlets EWA.csl" locId="E54587D2-9A53-4E53-89C7-382644FF2B6B" locString="Switches Receptacles and Outlets EWA.csl"></string>
+    <string nonTranslatableString="HVAC Air Conditioning HVA.csl" locId="8D97E05A-5C43-4F52-91E2-6913273C61F7" locString="HVAC Air Conditioning HVA.csl"></string>
+    <string nonTranslatableString="HVAC Heating HVA.csl" locId="B5D9DBA9-969A-49A0-98E5-D853CBF8D55C" locString="HVAC Heating HVA.csl"></string>
+    <string nonTranslatableString="HVAC Ventilating HVA.csl" locId="2D302091-0204-4BBE-BD62-CE4534E5C655" locString="HVAC Ventilating HVA.csl"></string>
+    <string nonTranslatableString="Accessories Plumbing Fixtures Elevation KBA.csl" locId="BF4CF499-DF31-4380-B122-432FC2A39A5D" locString="Accessories Plumbing Fixtures Elevation KBA.csl"></string>
+    <string nonTranslatableString="Accessories Plumbing Fixtures Plan KBA.csl" locId="6BA308A9-279D-4E5A-8DD2-EC7ACAFEDE49" locString="Accessories Plumbing Fixtures Plan KBA.csl"></string>
+    <string nonTranslatableString="Accessories Plumbing Fixtures Side Elevation KBA.csl" locId="F27E38AC-D9A2-4EFF-9BD0-66D43E389779" locString="Accessories Plumbing Fixtures Side Elevation KBA.csl"></string>
+    <string nonTranslatableString="Cabinets Elevation CBN.csl" locId="DF92A105-2581-44D9-B5CA-BC96B41AD37C" locString="Cabinets Elevation CBN.csl"></string>
+    <string nonTranslatableString="Cabinets Plan CBN.csl" locId="8CD7E5BD-909E-4F89-8927-6BEE62D71CC1" locString="Cabinets Plan CBN.csl"></string>
+    <string nonTranslatableString="Landscape Elements LSA.csl" locId="8080A454-F0BA-4978-8283-FCBBA31C6A76" locString="Landscape Elements LSA.csl"></string>
+    <string nonTranslatableString="Roads and Parking RPK.csl" locId="C80CF1F0-2D20-45CD-9E70-2578EBE73A51" locString="Roads and Parking RPK.csl"></string>
+    <string nonTranslatableString="Sitework Symbols SSY.csl" locId="666BEF98-17AD-464E-B021-B5FB87BB3989" locString="Sitework Symbols SSY.csl"></string>
+    <string nonTranslatableString="Trees and Plants in Elevation LSC.csl" locId="AC179D9E-8C4D-49BD-B048-CD2C84C808E4" locString="Trees and Plants in Elevation LSC.csl"></string>
+    <string nonTranslatableString="Trees and Plants in Plan LSB.csl" locId="B0EF3BCA-1A4C-4232-B3B4-433ACE25BABB" locString="Trees and Plants in Plan LSB.csl"></string>
+    <string nonTranslatableString="Pipe Fittings and Valves Bell &amp; Spigot PLB.csl" locId="1022E0B0-73BF-4105-9EB1-DE5649F3B52D" locString="Pipe Fittings and Valves Bell &amp; Spigot PLB.csl"></string>
+    <string nonTranslatableString="Pipe Fittings and Valves Flanged PLB.csl" locId="65D6C6D5-4F2F-4C04-8375-D96E61861BDC" locString="Pipe Fittings and Valves Flanged PLB.csl"></string>
+    <string nonTranslatableString="Pipe Fittings and Valves General PLB.csl" locId="7F5A3E38-0DD9-444F-81A0-761D2BC98624" locString="Pipe Fittings and Valves General PLB.csl"></string>
+    <string nonTranslatableString="Pipe Fittings and Valves Screwed PLB.csl" locId="86FC2058-B34F-4C34-86D0-0E3C108EFA90" locString="Pipe Fittings and Valves Screwed PLB.csl"></string>
+    <string nonTranslatableString="Pipe Fittings and Valves Soldered PLB.csl" locId="EEC36FD5-BB61-4F46-AE00-A43F685E225F" locString="Pipe Fittings and Valves Soldered PLB.csl"></string>
+    <string nonTranslatableString="Pipe Fittings and Valves Welded PLB.csl" locId="3B871269-28F9-4EED-8717-038D8548FD46" locString="Pipe Fittings and Valves Welded PLB.csl"></string>
+    <string nonTranslatableString="Digital and Analog Logic" locId="C0BF62C0-854A-484F-9498-B8C3E5AC6D22" locString="Digital and Analog Logic"></string>
+    <string nonTranslatableString="Electrical Connector Views" locId="BB89BC49-1A74-424E-97E0-CCBF19B7E788" locString="Electrical Connector Views"></string>
+    <string nonTranslatableString="System Diagrams" locId="650293D6-006C-4F4E-AA83-CD4A8A3907EF" locString="System Diagrams"></string>
+    <string nonTranslatableString="Circuit Protectors ELH.csl" locId="950A1EB6-397E-47DC-ADD3-2EA7B22ABAA3" locString="Circuit Protectors ELH.csl"></string>
+    <string nonTranslatableString="Composite Assemblies ELL.csl" locId="1AA8B4BC-E89B-4D94-AE61-A18591E0ED2D" locString="Composite Assemblies ELL.csl"></string>
+    <string nonTranslatableString="Fundamental Items ELB.csl" locId="67A8FBF4-509F-48E5-88A6-EAAC0AECCBC9" locString="Fundamental Items ELB.csl"></string>
+    <string nonTranslatableString="IC Components ELP.csl" locId="214055B1-0604-4C1E-8D5F-FD5363F6E0F0" locString="IC Components ELP.csl"></string>
+    <string nonTranslatableString="Lamps Acoustics and Readouts ELI.csl" locId="97157C7D-E7B3-4E3B-A923-973747C4169B" locString="Lamps Acoustics and Readouts ELI.csl"></string>
+    <string nonTranslatableString="Motors and Machines ELJ.csl" locId="7EDFE0A9-C357-4E19-A4E7-00F6A30B356E" locString="Motors and Machines ELJ.csl"></string>
+    <string nonTranslatableString="Qualifying Symbols ELA.csl" locId="98E3306F-675D-42DA-B38B-65E38B6B39C0" locString="Qualifying Symbols ELA.csl"></string>
+    <string nonTranslatableString="Semiconductors ELG.csl" locId="76CC34F0-EA2F-4E26-90B2-089465776492" locString="Semiconductors ELG.csl"></string>
+    <string nonTranslatableString="Switches and Relays ELD.csl" locId="EF058563-9A48-48A1-8184-1E0602A1C822" locString="Switches and Relays ELD.csl"></string>
+    <string nonTranslatableString="Terminals and Connectors ELE.csl" locId="1583DEE0-C8AE-4F49-B0BB-4C22CDE867C2" locString="Terminals and Connectors ELE.csl"></string>
+    <string nonTranslatableString="Transformers and Inductors ELF.csl" locId="81A00BEB-334F-43A5-B9DD-86C3DFA8B4E7" locString="Transformers and Inductors ELF.csl"></string>
+    <string nonTranslatableString="Transmission Path ELC.csl" locId="63291B5B-F5EE-4AA2-8C71-28EB482CC1DC" locString="Transmission Path ELC.csl"></string>
+    <string nonTranslatableString="VHF UHF SHF ELK.csl" locId="672D5C68-D607-4EFD-B40D-9CF0AD7B7763" locString="VHF UHF SHF ELK.csl"></string>
+    <string nonTranslatableString="Analog Logic ELQ.csl" locId="A1CC8355-686B-47C4-8C7F-E1681062A29E" locString="Analog Logic ELQ.csl"></string>
+    <string nonTranslatableString="Digital Logic ELR.csl" locId="511803B8-815B-4222-8466-B9A3E73F26F5" locString="Digital Logic ELR.csl"></string>
+    <string nonTranslatableString="Audio and Video ELO.csl" locId="A3F604AC-9EB1-454A-A7AD-E43E57235444" locString="Audio and Video ELO.csl"></string>
+    <string nonTranslatableString="BNC RJ USB ELT.csl" locId="9721AB7D-501B-4410-BAFC-E5F068EB39A3" locString="BNC RJ USB ELT.csl"></string>
+    <string nonTranslatableString="Cable Bends ELV.csl" locId="21B5D06F-6F40-43B7-9B79-320DE81A248C" locString="Cable Bends ELV.csl"></string>
+    <string nonTranslatableString="DIN and Centronics ELU.csl" locId="988C490B-C450-4E2C-A0F9-60A2E32DB301" locString="DIN and Centronics ELU.csl"></string>
+    <string nonTranslatableString="D-sub ELW.csl" locId="80572FE5-8A46-4B32-8046-A3D5B576F11F" locString="D-sub ELW.csl"></string>
+    <string nonTranslatableString="Power ELS.csl" locId="5414FB94-4E13-4B52-8A54-95BC0657979A" locString="Power ELS.csl"></string>
+    <string nonTranslatableString="Communications and Power Generation ELM.csl" locId="32BA1D47-9373-4A4A-B832-DD418CB08BBD" locString="Communications and Power Generation ELM.csl"></string>
+    <string nonTranslatableString="Maintenance Diagrams ELN.csl" locId="201001F0-7088-42F1-8925-7EBB7B390FCF" locString="Maintenance Diagrams ELN.csl"></string>
+    <string nonTranslatableString="Flow Charts FCH.csl" locId="4EA05C0A-5E4E-48A6-97BC-A0C57B3C151A" locString="Flow Charts FCH.csl"></string>
+    <string nonTranslatableString="Network NTW.csl" locId="E6F642B5-BBE2-457C-8DB3-49E792993F71" locString="Network NTW.csl"></string>
+    <string nonTranslatableString="Fasteners" locId="945045CD-92DF-44AE-BF39-FCC7745CC9F3" locString="Fasteners"></string>
+    <string nonTranslatableString="Fluid Power" locId="950FD203-9D33-4961-BE6D-BCF3B397A428" locString="Fluid Power"></string>
+    <string nonTranslatableString="Gears Mechanical Components" locId="9A6C8563-0553-457C-B4A6-16C50B055813" locString="Gears Mechanical Components"></string>
+    <string nonTranslatableString="Geometric Dimensioning Tolerancing" locId="7EC85258-47B0-4EDB-97AB-E0B8C3DB494A" locString="Geometric Dimensioning Tolerancing"></string>
+    <string nonTranslatableString="Process Engineering PEA.csl" locId="D87E5F1A-D129-4F18-B949-448623DCE34E" locString="Process Engineering PEA.csl"></string>
+    <string nonTranslatableString="Structural Shapes SSA.csl" locId="03596249-5B52-4E3C-9763-113514FB61F1" locString="Structural Shapes SSA.csl"></string>
+    <string nonTranslatableString="Tubing and Hose Connectors TBH.csl" locId="D8570CD4-6E42-41AF-8D10-1FDC8CCB3E6C" locString="Tubing and Hose Connectors TBH.csl"></string>
+    <string nonTranslatableString="Welding Symbols WLD.csl" locId="7B84C40A-D485-45CD-A8C6-3245ED3D7F26" locString="Welding Symbols WLD.csl"></string>
+    <string nonTranslatableString="Cap Set and Shoulder Screws FSA.csl" locId="E70DB4D5-F0AB-48D7-93FF-C13CBFF76DD6" locString="Cap Set and Shoulder Screws FSA.csl"></string>
+    <string nonTranslatableString="Machine Screws and Bolts Hex and Misc FSD.csl" locId="4DB28589-EBFE-4AC2-BCE9-90D4EAC19F65" locString="Machine Screws and Bolts Hex and Misc FSD.csl"></string>
+    <string nonTranslatableString="Machine Screws Phillips FSC.csl" locId="8A95770A-DD98-4DB6-9879-E1C68454414C" locString="Machine Screws Phillips FSC.csl"></string>
+    <string nonTranslatableString="Machine Screws Slotted FSB.csl" locId="2FCB0BE9-48B5-45A5-B659-A3653CF48BDC" locString="Machine Screws Slotted FSB.csl"></string>
+    <string nonTranslatableString="Nuts &amp; Knobs FSE.csl" locId="5C447D0F-9B31-483A-8054-D31345432282" locString="Nuts &amp; Knobs FSE.csl"></string>
+    <string nonTranslatableString="Self Threading Screws FSF.csl" locId="E14EB0A5-6CDD-4AC6-A215-0A998C030BB7" locString="Self Threading Screws FSF.csl"></string>
+    <string nonTranslatableString="Thread Builders &amp; Simplified Threads FSH.csl" locId="8A24D08B-0E33-4ED0-B662-A816CDF4BA57" locString="Thread Builders &amp; Simplified Threads FSH.csl"></string>
+    <string nonTranslatableString="Washers &amp; Miscellaneous FSG.csl" locId="3F65B6E8-AFCB-454C-943F-8B93DC31257A" locString="Washers &amp; Miscellaneous FSG.csl"></string>
+    <string nonTranslatableString="Components and Basic Symbols FLA.csl" locId="35A7F454-F1ED-4186-BC95-12B106813FA7" locString="Components and Basic Symbols FLA.csl"></string>
+    <string nonTranslatableString="Fluid Power Valves FLB.csl" locId="1792953E-DB5D-467E-A92E-6D4CB7203C90" locString="Fluid Power Valves FLB.csl"></string>
+    <string nonTranslatableString="Bearings GMB.csl" locId="5A4029E6-5A2A-4EFA-AD77-405CBC0C7920" locString="Bearings GMB.csl"></string>
+    <string nonTranslatableString="Bevel Sprockets and Misc Gears GMC.csl" locId="996D0957-7A2A-47D7-90B5-50599AD6DBF2" locString="Bevel Sprockets and Misc Gears GMC.csl"></string>
+    <string nonTranslatableString="Springs Shafts &amp; Hardware GMA.csl" locId="0F94F96D-5467-44FF-83FB-626D547C2CCD" locString="Springs Shafts &amp; Hardware GMA.csl"></string>
+    <string nonTranslatableString="Spur Gears Coarse Pitch GMD.csl" locId="849BD26A-DD4F-4EDD-BF67-27E925FC92F0" locString="Spur Gears Coarse Pitch GMD.csl"></string>
+    <string nonTranslatableString="Spur Gears Fine Pitch GMF.csl" locId="8AE6DDFA-9D33-4E3F-A70D-128A409615CA" locString="Spur Gears Fine Pitch GMF.csl"></string>
+    <string nonTranslatableString="Spur Gears Medium Pitch GME.csl" locId="A19B4317-A408-4840-A8EB-A90D6E730122" locString="Spur Gears Medium Pitch GME.csl"></string>
+    <string nonTranslatableString="Geo Dimension Tolerancing GDT.csl" locId="7F66F2A1-241C-4D76-99DF-60D4852BEE2E" locString="Geo Dimension Tolerancing GDT.csl"></string>
+    <string nonTranslatableString="Surface Texture Symbols STS.csl" locId="02A91B5A-664D-4ACB-8B39-C9D8C279B563" locString="Surface Texture Symbols STS.csl"></string>
+    <string nonTranslatableString="E-Tools TLE.csl" locId="23EFD0C8-ACB4-4681-9499-8AD59E5694E1" locString="E-Tools TLE.csl"></string>
+    <string nonTranslatableString="Hand Tools TLS.csl" locId="57624A73-5E05-4F73-A511-93EB998B7999" locString="Hand Tools TLS.csl"></string>
+    <string nonTranslatableString="Hands HDS.csl" locId="601CB8B5-6D46-4E22-B124-7F87A3C1A4B1" locString="Hands HDS.csl"></string>
+    <string nonTranslatableString="Hands with tools TLH.csl" locId="6B37BF45-EB29-408F-8B0A-91DF3CC30690" locString="Hands with tools TLH.csl"></string>
+    <string nonTranslatableString="Measuring tools TLM.csl" locId="24DCCD10-39C9-4750-8FB7-D65BEC0D01E1" locString="Measuring tools TLM.csl"></string>
+    <string nonTranslatableString="Supplemental Tools TLW.csl" locId="BAB63D55-301D-414C-B685-2133F36A10FF" locString="Supplemental Tools TLW.csl"></string>
+    <string nonTranslatableString="S1000D Arrows Top View.csl" locId="BCB5F260-9DDF-41BE-A3BD-A73F0C55F164" locString="S1000D Arrows Top View.csl"></string>
+    <string nonTranslatableString="S1000D Arrows Bottom View.csl" locId="EEDB1A7F-0E1C-48B5-9F6A-1CFB631E600F" locString="S1000D Arrows Bottom View.csl"></string>
+	</context>
+	<context name="AssetManagement">
+		<!--Fill Packs-->
+		<string nonTranslatableString="Bitmap Pack 1" locId="7044096f-3ea6-d3b9-4452-c04ce7e4e746" locString="Pacote de bitmaps 1"></string>
+		<string nonTranslatableString="Bitmap Pack 2" locId="3ecd310f-d576-7888-4e7e-7fa866eeaf95" locString="Pacote de bitmaps 2"></string>
+		<string nonTranslatableString="Fountain Pack" locId="0fe882ee-d6cc-bdac-4bcf-239c4ec8f6a2" locString="Conjunto gradiente"></string>
+		<string nonTranslatableString="Starter pack" locId="9b911d7f-c1fa-33b4-4398-c60627443632" locString="Pacote básico"></string>
+		<string nonTranslatableString="Vector Pack" locId="2df095dc-04ec-9f92-43a7-b8c05d5121b5" locString="Pacote de vetores"></string>
+		<!--Transportation Pack-->
+		<string nonTranslatableString="Transportation" locId="f33b8c55-0fcf-4f04-abc3-4a82012fc3a8" locString="Transporte"></string>
+		<string nonTranslatableString="Vehicle Graphics Templates" locId="4d64cf77-e0ab-4b0a-ae38-142ab9821410" locString="Modelos gráficos de veículos"></string>
+		<!--Modern Life Pack-->
+		<string nonTranslatableString="Architecture" locId="88fb2c9c-b606-477f-97eb-9d45a3e0ce9d" locString="Arquitetura"></string>
+		<string nonTranslatableString="Baby and Kids" locId="00e17987-b788-43ad-8d01-f7388f777b33" locString="Bebê e Crianças"></string>
+		<string nonTranslatableString="Buildings" locId="691957fd-f437-4aca-8fb3-76a3fe63a9ae" locString="Prédios"></string>
+		<string nonTranslatableString="Business" locId="7907197a-22ad-42af-9abd-87c4e1952877" locString="Empresa"></string>
+		<string nonTranslatableString="Clothing" locId="124ff95c-23b5-47cd-a9e9-2d96ddab0139" locString="Roupas"></string>
+		<string nonTranslatableString="Culture" locId="e9ea573c-d09c-41cb-aaed-b97c6c901957" locString="Cultura"></string>
+		<string nonTranslatableString="Education" locId="cabc342c-1fce-44cb-9fa5-0e877875caae" locString="Educação"></string>
+		<string nonTranslatableString="Fashion" locId="0c097f6e-9d0f-49ee-ab11-885a03af6833" locString="Moda"></string>
+		<string nonTranslatableString="Fire and Police" locId="9c473b35-0045-4306-a1e3-613c5f2e94cd" locString="Fogo e Polícia"></string>
+		<string nonTranslatableString="Food" locId="62200b91-1bd3-4501-b1f6-dca170aab5cf" locString="Alimento"></string>
+		<string nonTranslatableString="Medical" locId="77a178f7-e268-4402-be3e-39f8a0622002" locString="Médico"></string>
+		<string nonTranslatableString="Military" locId="86dbd81e-6187-4473-b79c-0b66f06e2c7a" locString="Militar"></string>
+		<string nonTranslatableString="Music" locId="b8741394-2e8e-49ff-953f-f9c9c265c25b" locString="Música"></string>
+		<string nonTranslatableString="Objects" locId="cf2c4fe3-4e71-4bfc-b5e7-5050af3b3b66" locString="Objetos"></string>
+		<string nonTranslatableString="People" locId="cde6cc02-2cd2-477c-829e-98638d51ac31" locString="Pessoas"></string>
+		<string nonTranslatableString="Signs" locId="85e00401-a15c-4bd4-b0bf-6ff3f36c351a" locString="Placas"></string>
+		<string nonTranslatableString="Space" locId="daf4943f-893e-4351-99a8-4f3485a3c483" locString="Espaço"></string>
+		<string nonTranslatableString="Special Occasions" locId="5de0d22f-5744-4fbd-8ae3-421c962c1621" locString="Ocasiões especiais"></string>
+		<string nonTranslatableString="Sports" locId="9f5eeb3d-dbd6-4f1d-88f3-5cceff08a984" locString="Esportes"></string>
+		<string nonTranslatableString="Technology" locId="4ed41fd7-1244-4041-808d-4a7a945d2778" locString="Tecnologia"></string>
+		<string nonTranslatableString="Tools" locId="a953b633-056a-410a-932c-fd829e704892" locString="Ferramentas"></string>
+		<string nonTranslatableString="Travel" locId="d2344129-9778-4bcc-b5dd-161c7bf06a5d" locString="Viagem"></string>
+		<!--Earth and Nature Pack-->
+		<string nonTranslatableString="Animals" locId="d994693f-9849-40c0-bfc2-bee3ec695664" locString="Animais"></string>
+		<string nonTranslatableString="Birds" locId="654de7bc-6dca-4202-aead-81c3bd550663" locString="Pássaros"></string>
+		<string nonTranslatableString="Farm" locId="dc0ce0a3-fa36-4ac1-a43e-6f9c5e40c31c" locString="Fazenda"></string>
+		<string nonTranslatableString="Insects" locId="dca03628-324d-4755-9e8a-e278a690c343" locString="Insetos"></string>
+		<string nonTranslatableString="Landscape and Nature" locId="f616f97e-ce3b-431e-86c4-4839ee8e30bd" locString="Paisagem e Natureza"></string>
+		<string nonTranslatableString="Plants" locId="e5551869-58dd-4460-acae-86f6adbe70df" locString="Plantas"></string>
+		<string nonTranslatableString="Reptiles" locId="53d5c8d4-e496-4206-b4ee-ea2b751dee39" locString="Répteis"></string>
+		<string nonTranslatableString="Sea Life" locId="75a0450e-1d57-4a20-bdd7-32518efd2697" locString="Vida marinha"></string>
+		<string nonTranslatableString="Weather" locId="81f53930-e999-44f4-88e2-46a3e2ef96aa" locString="Clima"></string>
+		<string nonTranslatableString="Woodcut" locId="62ebdcd4-6b54-4e9e-be50-ff6b0184acea" locString="Corte em madeira"></string>
+		<!--Layout Pack-->
+		<string nonTranslatableString="Backgrounds and Textures" locId="f92f883b-bb55-4267-a3ee-15abdaea6d66" locString="Planos de fundo e Texturas"></string>
+		<string nonTranslatableString="Blank Objects" locId="10fcd97a-a65e-4656-b327-521989d7c165" locString="Objetos em Branco"></string>
+		<string nonTranslatableString="Borders and Frames" locId="ff41212a-f6e1-43d1-9c55-84d55b2bc367" locString="Bordas e Quadros"></string>
+		<string nonTranslatableString="Design Elements" locId="9e0396b5-17a8-4959-a1d0-44af44fd4488" locString="Elementos de desenho"></string>
+		<string nonTranslatableString="Flames" locId="19a87252-88b2-4013-98a4-e2aa97680167" locString="Chamas"></string>
+		<string nonTranslatableString="Ornamental Lines" locId="f284b536-73bb-4c78-b4c4-d667d401338b" locString="Linhas ornamentais"></string>
+		<string nonTranslatableString="Ornaments" locId="69d684bc-8389-4152-8ed1-721f7a5582f5" locString="Ornamentos"></string>
+		<string nonTranslatableString="Wrought Iron" locId="68901789-5920-4fe0-b440-2cc97d0f94c3" locString="Ferro batido"></string>
+		<!-- Templates-->
+		<string nonTranslatableString="Corel Templates" locId="3137253c-4fbc-411c-bd95-5f108ea002bf" locString="Modelos da Corel"></string>
+		<!-- Designer Pack-->
+		<string nonTranslatableString="Architectural" locId="ef66ff38-4c2e-473c-a04b-929e6f407874" locString="Architectural"></string>
+		<string nonTranslatableString="Electrical" locId="23a19c33-a07d-463d-87e5-fd95ca3cc544" locString="Electrical"></string>
+		<string nonTranslatableString="General" locId="febadf2a-da2c-459f-9622-e22b0dd754d2" locString="Geral"></string>
+		<string nonTranslatableString="Mechanical" locId="a4c700ff-44ad-40a3-ba2c-04f732166a8f" locString="Mechanical"></string>
+		<string nonTranslatableString="Tools and Hands" locId="e1b1955f-c62b-49b1-a9bb-02452a2e6b66" locString="Ferramentas e mãos"></string>
+		<string nonTranslatableString="Technical Illustration" locId="ba9f57ae-f04f-4841-b0f6-33fd8c6fe40f" locString="Ilustração técnica"></string>
+	</context>
+</stringMap>

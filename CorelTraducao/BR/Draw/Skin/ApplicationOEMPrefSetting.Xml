@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ApplicationPrefSetting>
+	<!-- Application UI name -->
+	<CorelUIName>
+		<Default>CorelDRAW 2021</Default>
+		<Mac>CorelDRAW</Mac>
+	</CorelUIName>
+</ApplicationPrefSetting>
+
